@@ -1,0 +1,4 @@
+name: NoMovePlugin
+version: 1.0
+main: me.tuselcraft.Main
+api-version: 1.21
