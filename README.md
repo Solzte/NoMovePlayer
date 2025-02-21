@@ -17,6 +17,9 @@ Version: This plugin is specifically designed and tested for Paper version 1.21.
 ## Commands
 There are currently no public commands in this plugin.
 
+## License
+You are free to use, modify, and distribute the code in any way you want. No permission is needed to use or modify the code.
+
 ## How to Contact
 If you encounter any bugs or issues with the plugin, feel free to reach out to solzte on Discord for support.
 Discord: solzte
